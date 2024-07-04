@@ -1,4 +1,4 @@
-<h1>Unity-Game-Project-Alien-Target - Game Development</h1>
+<h1>Unity-Game-Project-Driving-Driving - Game Development</h1>
 
 <h2>Description</h2>
 This project is called Driving Track and it is a Meta Oculus game VR app that consists of simple C# scripts that advocates for the user to use the controller joy stick to start moving the car. You have to go around the track and avoid falling off and landing into the ocean. Time to beat you best record!
